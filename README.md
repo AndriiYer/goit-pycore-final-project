@@ -63,7 +63,6 @@ python main.py
 ### Встановлення як пакет (як опція)
 ```
 pip install -e .
-assistant-bot
 ```
 
 ## КОМАНДИ ДЛЯ КОНТАКТІВ
