@@ -141,7 +141,7 @@ Contact 'Andrii' added.
 > add-email Andrii andrii@email.com
 Email added.
 
-> phone Andrii
+> show-phone Andrii
 Andrii: 1234567890
 
 > add-birthday Andrii 12.04.1990
